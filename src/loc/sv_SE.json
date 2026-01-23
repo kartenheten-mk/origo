@@ -16,7 +16,7 @@
             "snapTooltip": "Snappning",
             "showSectionsTooltip": "Visa delsträckor",
             "addNodeTooltip": "Lägg till punkt",
-            "elevationTooltip": "Höjd",
+            "elevationTooltip": "Höjd RH2000",
             "fetchingElevation": "Hämtar höjd...",
             "undoTooltip": "Ångra"
         },
